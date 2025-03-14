@@ -145,6 +145,7 @@ const styles = StyleSheet.create({
   taskContainer: {
     flexDirection: 'row',
     alignItems: 'center',
+
    marginVertical: 10,
     backgroundColor: "#ffe0a1",
     border: 'solid 1px black',

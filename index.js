@@ -7,11 +7,4 @@ import App from './App';
 // the environment is set up appropriately
 
 
-
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
 registerRootComponent(App);
